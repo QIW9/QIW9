@@ -13,11 +13,6 @@
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=QIW9&hide_border=true&theme=tokyonight)
 
-![Followers](https://img.shields.io/github/followers/QIW9?style=flat-square&logo=github&label=Followers&color=36BCF7)
-![Stars](https://img.shields.io/github/stars/QIW9?style=flat-square&logo=github&label=Stars&color=36BCF7)
-![Last commit](https://img.shields.io/github/last-commit/QIW9/QIW9?style=flat-square&logo=github&label=Last+commit&color=36BCF7)
-![Profile views](https://komarev.com/ghpvc/?username=QIW9&color=36BCF7&style=flat-square&label=Profile+Views)
-
 ### If you're interested in me
 
 Feel free to reach out:
