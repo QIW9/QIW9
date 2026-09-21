@@ -4,6 +4,7 @@
 
 - Currently passionate about **Cloud Native** and **AI Agent**
 - Love **open source** — I enjoy turning ideas into code that actually runs
+- Also a fan of **Japanese anime**, **Vocaloid** music, and **Touhou Project**
 
 ### 💼 Work experience
 
