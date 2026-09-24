@@ -8,7 +8,7 @@
 
 ### 💼 Work experience
 
-- **Tencent TIMI TECH Center** — Platform Engineer / SRE · `2026.04 – Present`
+- **Tencent IEG** — Platform Engineer / SRE · `2026.04 – Present`
 
 ### 📊 GitHub stats
 
