@@ -16,5 +16,3 @@ Feel free to reach out:
 
 - 📮 Email: [qiwang922337@gmail.com](mailto:qiwang922337@gmail.com)
 - 💬 WeChat: qiwang922337
-
-> Become the expert in your field.
