@@ -2,13 +2,9 @@
 
 ### 🌱 About me
 
-- Currently passionate about **Cloud Native** and **AI Agent**
+- Currently passionate about **Cloud Native** and **AI**
 - Love **open source** — I enjoy turning ideas into code that actually runs
 - Also a fan of **Japanese anime**, **Vocaloid** music, and **Touhou Project**
-
-### 💼 Work experience
-
-- **Tencent IEG** — Platform Engineer / SRE · `2026.04 – Present`
 
 ### 📊 GitHub stats
 
